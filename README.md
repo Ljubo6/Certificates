@@ -1,4 +1,7 @@
 # Certificates
+
+Diploma - https://softuni.bg/certificates/details/133448/9a151433
+
 01.Angular - https://softuni.bg/certificates/details/133047/48a30641
 
 02.JS Back-End - https://softuni.bg/certificates/details/127435/aa5d6c05
