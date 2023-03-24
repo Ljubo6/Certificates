@@ -1,6 +1,10 @@
 # Certificates
 
-Diploma - https://softuni.bg/certificates/details/133448/9a151433
+Diploma C# Full-Stack Developer - https://softuni.bg/certificates/details/133470/67594f0e
+
+Diploma C# Web Developer - https://softuni.bg/certificates/details/133448/9a151433
+
+Diploma JS Web Developer - https://softuni.bg/certificates/details/133463/da77e0cd
 
 01.Angular - https://softuni.bg/certificates/details/133047/48a30641
 
